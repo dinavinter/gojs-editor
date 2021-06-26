@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.react-gojs-example-es6-master.iml
+# Datasource local storage ignored files
+/../../../../../../../:\diagrams\react-gojs-example-es6-master\react-gojs-example-es6-master\.idea\.idea.react-gojs-example-es6-master.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
